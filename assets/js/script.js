@@ -115,7 +115,7 @@ hintButton.addEventListener("click", function () {
 // Event listener saat tombol "Level Selanjutnya" ditekan
 levelButton.addEventListener("click", function () {
   // Mengarahkan ke halaman index2.html
-  window.location.href = "index2.html";
+  window.location.href = "level2.html";
 });
 
 // Fungsi untuk mengulang permainan
